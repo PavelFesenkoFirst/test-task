@@ -1,0 +1,11 @@
+/public/storage
+/storage
+/vendor
+/.idea
+/.vscode
+.env
+.env.testing
+.phpunit.result.cache
+_ide_helper_models.php
+_ide_helper.php
+.DS_Store

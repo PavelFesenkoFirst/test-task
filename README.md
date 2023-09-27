@@ -33,5 +33,5 @@
 
 or 
 
-`docker-compose exec web bash` them `cd posts` and them `php artisan migrate --seed`
+`docker-compose exec web bash` them `cd posts` and them `php artisan migrate:fresh --seed`
 
